@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "interactjs": "^1.10.17",
     "vue": "^3.2.45"
   },
   "devDependencies": {
